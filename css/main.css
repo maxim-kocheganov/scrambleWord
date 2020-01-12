@@ -1,0 +1,10 @@
+body {
+    background-color: #e4e4e4;
+}
+.textFileds {
+    display: inline-block;
+    resize: both;
+    overflow: auto;
+    height: 200px;
+    width: 400px;
+}
